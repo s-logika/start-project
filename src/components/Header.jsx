@@ -4,7 +4,14 @@ import { Link } from "react-router-dom";
 
 function Header() {
     return(
-        <h1>Header</h1>
+       
+        <ul>
+            <div className="nav">
+                <li Link="">Home</li>
+                <li Link="">About</li>
+                <li Link="">Login</li>
+            </div>
+        </ul>
     )
 }
 export default Header
