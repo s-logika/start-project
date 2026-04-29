@@ -1,11 +1,17 @@
-
+  
 import { Link } from "react-router-dom";
 
-function NotFound() {
+function NotFount() {
     return(
-        
-        <h1>NotFound</h1>
+        <>
+        <div>
+            <h1>404 || error</h1>
+        </div>
+
+        </>
+    
     
     )
 }
-export default NotFound
+export default NotFount
+    

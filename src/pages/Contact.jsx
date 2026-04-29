@@ -1,12 +1,17 @@
   
 import { Link } from "react-router-dom";
 
-function Contact() {
+function Countact() {
     return(
-        
-        <h1>Contact</h1>
+        <>
+        <div>
+            <h1>Countact</h1>
+        </div>
+
+        </>
+    
     
     )
 }
-export default Contact
+export default Countact
     

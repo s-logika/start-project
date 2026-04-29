@@ -1,14 +1,12 @@
-.nav {
-    color: blue;
-    font-size: xx-large;
-    font-family: 'Times New Roman', Times, serif;
+.main {
+    padding: opx;
+    margin: 0px;
     display: flex;
-    gap: 100px;
-    background-color: rgb(15, 4, 14);
-    padding:0px;
-    margin: none;
-    
+}
+.main-t {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+    font-size: xx-large;
 
-    
-    
 }
