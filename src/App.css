@@ -1,12 +1,21 @@
-.main {
-    padding: opx;
+*/ {
+    padding: 0px;
     margin: 0px;
-    display: flex;
+    
+
+}
+.main{
+
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
 }
 .main-t {
     font-family: 'Times New Roman', Times, serif;
     color: black;
     text-decoration: none;
     font-size: xx-large;
+    font-weight: 700;
+    
 
 }
